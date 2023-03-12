@@ -20,8 +20,8 @@ Coffee Delivery, projeto desenvolvido para realizar a compra e recebimento de di
 </p>
 <div style="align-items: center;">
   <h3>Layout</h3>
-  <img src="https://github.com/BrunoMeirel3s/Projeto-Estudo-DeliveryCoffee/blob/main/screens/screen1.png" width="600px"  height="auto"></img>
   <img src="https://github.com/BrunoMeirel3s/Projeto-Estudo-DeliveryCoffee/blob/main/screens/screen2.png" width="600px"  height="auto"></img>
+  <img src="https://github.com/BrunoMeirel3s/Projeto-Estudo-DeliveryCoffee/blob/main/screens/screen1.png" width="600px"  height="auto"></img>
   <img src="https://github.com/BrunoMeirel3s/Projeto-Estudo-DeliveryCoffee/blob/main/screens/screen3.png" width="600px"  height="auto"></img>
   <img src="https://github.com/BrunoMeirel3s/Projeto-Estudo-DeliveryCoffee/blob/main/screens/screen4.png" width="600px"  height="auto"></img>
 </div>
