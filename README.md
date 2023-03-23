@@ -10,7 +10,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   <li><a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a></li>
   <li><a href="https://styled-components.com/" target="_blank">Styled Components</a></li>
   <li><a href="https://react-hook-form.com/" target="_blank">React Hook Form</a></li>
-  <li><a href="https://www.npmjs.com/package/yup" target="_blank">Styled Components</a></li>
   <li><a href="https://reactjs.org/docs/context.html" target="_blank">Context API</a></li>
 </ul>
 <h2>💻 Projeto</h2>
